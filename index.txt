@@ -1,0 +1,6 @@
+git init -> initializing the repository
+git add -> staging the changes
+git add filename 
+if i want to add all file i would use a dot
+
+Git add [particular filename]
